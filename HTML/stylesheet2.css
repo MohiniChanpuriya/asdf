@@ -53,6 +53,15 @@
   border: 10px solid rgb(118 155 118);
   padding: 100px;
   margin: 50px;
-  margin-left: 200px;
+  margin-left: 150px;
+  margin-right: 200px;
+}
+#ub{
+  width: 500px;
+  background-color:rgb(211 135 160);
+  border: 10px solid #dd4c4c73;
+  padding: 20px;
+  margin: 20px;
+  margin-left: 450px;
   margin-right: 200px;
 }
